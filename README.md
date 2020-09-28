@@ -1,7 +1,7 @@
 # logistics-app-sfdc
 hey folks,
 
-Better to see my schema first <br />
+Better to see my schema first <br /><br />
 ![first](/Images/SchemaBuilder.png)
 
 And the App Homepage built using lwc is <br /><br />
